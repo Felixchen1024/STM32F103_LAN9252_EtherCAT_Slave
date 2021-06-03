@@ -1,0 +1,1 @@
+last_chance_lan_at403\startup_stm32f103xg.o: startup_stm32f103xg.s

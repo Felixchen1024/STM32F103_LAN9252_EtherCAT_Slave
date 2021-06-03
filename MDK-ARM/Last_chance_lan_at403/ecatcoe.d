@@ -1,0 +1,9 @@
+last_chance_lan_at403\ecatcoe.o: EtherCAT_Src\EtherCAT\ecatcoe.c
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\ecat_def.h
+last_chance_lan_at403\ecatcoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+last_chance_lan_at403\ecatcoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\sdoserv.h
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\ecatcoe.h
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\mailbox.h
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\ecatcoe.h
+last_chance_lan_at403\ecatcoe.o: .\EtherCAT_Src\inlcude\mailbox.h
